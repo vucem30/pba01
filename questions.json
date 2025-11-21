@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es el resultado de 2 + 2 en Python?",
+    "options": [
+      {"text": "3", "is_correct": false},
+      {"text": "4", "is_correct": true},
+      {"text": "22", "is_correct": false},
+      {"text": "Error", "is_correct": false}
+    ],
+    "type": "single"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué función imprime en pantalla en Python?",
+    "options": [
+      {"text": "echo", "is_correct": false},
+      {"text": "print", "is_correct": true},
+      {"text": "console.log", "is_correct": false},
+      {"text": "output", "is_correct": false}
+    ],
+    "type": "single"
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál de los siguientes son tipos de datos en Python?",
+    "options": [
+      {"text": "int", "is_correct": true},
+      {"text": "str", "is_correct": true},
+      {"text": "float", "is_correct": true},
+      {"text": "char", "is_correct": false}
+    ],
+    "type": "multi"
+  },
+  {
+    "id": 4,
+    "question": "¿Cómo se define una función en Python?",
+    "options": [
+      {"text": "function mi_funcion()", "is_correct": false},
+      {"text": "def mi_funcion():", "is_correct": true},
+      {"text": "func mi_funcion()", "is_correct": false},
+      {"text": "define mi_funcion()", "is_correct": false}
+    ],
+    "type": "single"
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es la forma correcta de crear una lista en Python?",
+    "options": [
+      {"text": "list = [1, 2, 3]", "is_correct": true},
+      {"text": "list = (1, 2, 3)", "is_correct": false},
+      {"text": "list = {1, 2, 3}", "is_correct": false},
+      {"text": "list = <1, 2, 3>", "is_correct": false}
+    ],
+    "type": "single"
+  },
+  {
+    "id": 6,
+    "question": "¿Cuáles de los siguientes métodos modifican una lista en Python? (elige dos)",
+    "options": [
+      {"text": "append", "is_correct": true},
+      {"text": "pop", "is_correct": true},
+      {"text": "split", "is_correct": false},
+      {"text": "join", "is_correct": false}
+    ],
+    "type": "multi"
+  }
+]
